@@ -1,9 +1,9 @@
 # pythonblankslate
 
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/unkokaeru/untitledpythonproject?label=version)](https://github.com/unkokaeru/untitledpythonproject)
-[![Lines Of Code](https://tokei.rs/b1/github/unkokaeru/untitledpythonproject?category=code)](https://github.com/unkokaeru/untitledpythonproject)
-[![Continuous Integration (CI) Tests](https://img.shields.io/github/actions/workflow/status/unkokaeru/untitledpythonproject/continuous_integration.yml?label=tests)](https://github.com/unkokaeru/untitledpythonproject)
-[![GitHub last commit](https://img.shields.io/github/last-commit/unkokaeru/untitledpythonproject)](https://github.com/unkokaeru/untitledpythonproject)
+[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/unkokaeru/pythonblankslate?label=version)](https://github.com/unkokaeru/pythonblankslate)
+[![Lines Of Code](https://tokei.rs/b1/github/unkokaeru/pythonblankslate?category=code)](https://github.com/unkokaeru/pythonblankslate)
+[![Continuous Integration (CI) Tests](https://img.shields.io/github/actions/workflow/status/unkokaeru/pythonblankslate/continuous_integration.yml?label=tests)](https://github.com/unkokaeru/pythonblankslate)
+[![GitHub last commit](https://img.shields.io/github/last-commit/unkokaeru/pythonblankslate)](https://github.com/unkokaeru/pythonblankslate)
 
 Start your Python project from a Blankslate!
 
