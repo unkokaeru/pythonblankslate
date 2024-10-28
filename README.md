@@ -33,7 +33,7 @@ Before starting, you'll need a GitHub account and Poetry account. For Poetry, yo
 poetry config pypi-token.pypi your-api-token
 ```
 
-To create a project with untitledpython project, simply run:
+To create a project with pythonblankslate, simply run:
 
 ```bash
 pip install cookiecutter
