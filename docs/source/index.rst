@@ -1,17 +1,17 @@
-Welcome to the documentation for untitledpythonproject!
+Welcome to the documentation for pythonblankslate!
 =================================================================
 
-.. image:: https://img.shields.io/github/v/tag/unkokaeru/untitledpythonproject?label=version
-    :target: https://github.com/unkokaeru/untitledpythonproject
+.. image:: https://img.shields.io/github/v/tag/unkokaeru/pythonblankslate?label=version
+    :target: https://github.com/unkokaeru/pythonblankslate
     :alt: GitHub tag (latest by date)
-.. image:: https://tokei.rs/b1/github/unkokaeru/untitledpythonproject?category=code
-    :target: https://github.com/unkokaeru/untitledpythonproject
+.. image:: https://tokei.rs/b1/github/unkokaeru/pythonblankslate?category=code
+    :target: https://github.com/unkokaeru/pythonblankslate
     :alt: Lines Of Code
-.. image:: https://img.shields.io/github/actions/workflow/status/unkokaeru/untitledpythonproject/continuous_integration.yml?label=tests
-    :target: https://github.com/unkokaeru/untitledpythonproject/actions/workflows/continuous_integration.yml
+.. image:: https://img.shields.io/github/actions/workflow/status/unkokaeru/pythonblankslate/continuous_integration.yml?label=tests
+    :target: https://github.com/unkokaeru/pythonblankslate/actions/workflows/continuous_integration.yml
     :alt: Continuous Integration (CI) Tests
-.. image:: https://img.shields.io/github/last-commit/unkokaeru/untitledpythonproject
-    :target: https://github.com/unkokaeru/untitledpythonproject/actions/workflows/continuous_integration.yml
+.. image:: https://img.shields.io/github/last-commit/unkokaeru/pythonblankslate
+    :target: https://github.com/unkokaeru/pythonblankslate/actions/workflows/continuous_integration.yml
     :alt: GitHub last commit
 
 Yet another Python project template.
@@ -26,6 +26,7 @@ Features
 --------
 
 -  ☒ Installable via Cookiecutter
+-  ☐ Installable via Poetry package
 -  ☒ Command-line interface
 -  ☒ Interactive documentation
 -  ☐ Project validation and auto-upgrading
@@ -41,31 +42,31 @@ Before starting, you'll need a GitHub account and Poetry account. For Poetry, yo
 
     poetry config pypi-token.pypi your-api-token
 
-To create a project with untitledpython project, simply run:
+To create a project with pythonblankslate, simply run:
 
 .. code-block:: bash
 
     pip install cookiecutter
-    cookiecutter gh:unkokaeru/untitledpythonproject
+    cookiecutter gh:unkokaeru/pythonblankslate
 
 Usage
 -----
 
-After installation, you can use untitledpythonproject by
+After installation, you can use pythonblankslate by
 running:
 
 .. code:: bash
 
-    $ python3 -m untitledpythonproject
+    $ python3 -m pythonblankslate
     # or
-    $ untitledpythonproject
+    $ pythonblankslate
 
 Documentation
 -------------
 
 For more information, you can find the documentation within the
 `docs <./docs/index.html>`__ directory or on the project's [GitHub
-Pages](https://unkokaeru.github.io/untitledpythonproject/).
+Pages](https://unkokaeru.github.io/pythonblankslate/).
 
 Contributing
 ------------
