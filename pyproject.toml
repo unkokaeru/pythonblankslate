@@ -3,19 +3,19 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "untitledpythonproject"
+name = "pythonblankslate"
 version = "1.0.0"
 description = "Yet another Python project template."
-authors = ["William Fayers <wills@fayers.com>"]
+authors = ["William Fayers <william@fayers.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "untitledpythonproject", from = "source"}]
-homepage = "https://github.com/unkokaeru/untitledpythonproject"
-repository = "https://github.com/unkokaeru/untitledpythonproject"
-include = ["LICENSE", "source/untitledpythonproject/py.typed"]
+packages = [{include = "pythonblankslate", from = "source"}]
+homepage = "https://github.com/unkokaeru/pythonblankslate"
+repository = "https://github.com/unkokaeru/pythonblankslate"
+include = ["LICENSE", "source/pythonblankslate/py.typed"]
 
 [tool.poetry.scripts]
-untitledpythonproject = "untitledpythonproject.main:main"
+pythonblankslate = "pythonblankslate.main:main"
 
 [tool.poetry.dependencies]
 # Main project dependencies.
