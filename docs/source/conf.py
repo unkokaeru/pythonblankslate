@@ -1,6 +1,6 @@
 """conf.py: Configuration file for the Sphinx documentation builder."""
 
-project = "untitledpythonproject"
+project = "pythonblankslate"
 copyright = "2024, William Fayers"
 author = "William Fayers"
 
