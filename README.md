@@ -1,13 +1,13 @@
-# untitledpythonproject
+# pythonblankslate
 
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/unkokaeru/untitledpythonproject?label=version)](https://github.com/unkokaeru/untitledpythonproject)
 [![Lines Of Code](https://tokei.rs/b1/github/unkokaeru/untitledpythonproject?category=code)](https://github.com/unkokaeru/untitledpythonproject)
 [![Continuous Integration (CI) Tests](https://img.shields.io/github/actions/workflow/status/unkokaeru/untitledpythonproject/continuous_integration.yml?label=tests)](https://github.com/unkokaeru/untitledpythonproject)
 [![GitHub last commit](https://img.shields.io/github/last-commit/unkokaeru/untitledpythonproject)](https://github.com/unkokaeru/untitledpythonproject)
 
-Yet another Python project template.
+Start your Python project from a Blankslate!
 
-- [untitledpythonproject](#untitledpythonproject)
+- [pythonblankslate](#pythonblankslate)
     - [Features](#features)
     - [Installation and Usage](#installation-and-usage)
     - [Usage](#usage)
@@ -18,6 +18,7 @@ Yet another Python project template.
 ## Features
 
 - [x] Installable via Cookiecutter
+- [ ] Installable via Poetry package
 - [x] Command-line interface
 - [x] Interactive documentation
 - [ ] Project validation and auto-upgrading
@@ -41,7 +42,7 @@ pip install cookiecutter
 and then
 
 ```bash
-cookiecutter gh:unkokaeru/untitledpythonproject
+cookiecutter gh:unkokaeru/pythonblankslate
 ```
 
 In order for GitHub Pages `docs` deployment and the TODO action to work, then you'll need to configure your new repository on GitHub a bit first. In your repository settings, go to...
@@ -49,7 +50,7 @@ In order for GitHub Pages `docs` deployment and the TODO action to work, then yo
 - Code and automation -> Pages -> Build and Development -> Branch, then select the `docs` branch and save.
 
 ## Documentation
-For more information, you can find the documentation within the [docs](./docs/index.html) directory or on the project's [GitHub Pages](https://unkokaeru.github.io/untitledpythonproject/).
+For more information, you can find the documentation within the [docs](./docs/index.html) directory or on the project's [GitHub Pages](https://unkokaeru.github.io/pythonblankslate/).
 
 ## Contributing
 
